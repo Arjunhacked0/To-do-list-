@@ -40,7 +40,7 @@ cd todo-list-app
 
 ### Instructions
 
-1. Replace `your-username` with your actual GitHub username in the clone URL and author section.
+1. Replace `your-username` with your actual( git clone https://github.com/Arjunhacked0/To-do-list-/blob/main/README.md).
 2. You can add your GitHub profile link where indicated.
 
 Feel free to modify any other sections as needed! Let me know if you need anything else.
