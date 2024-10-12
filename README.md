@@ -31,7 +31,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 3. Run the following command:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone [https://github.com/Arjunhacked0/To-do-list-/blob/main/README.md)
 cd todo-list-app
 
 
